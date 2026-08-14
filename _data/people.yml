@@ -1,17 +1,13 @@
-# Edit this file to add your course instructors and TAs.
-# profile_pic: put a photo in _images/pp/ and reference it here.
-# webpage: optional personal/faculty page link.
-#
-# Both instructors and TAs are added to the instructors-{semester} team
-# in the course org (maintain access). GitHub Classroom handles
-# submission-level grader access separately.
+# auto-generated from the org's instructors team.
+
+instructor:
+  name: "hertie-dsl-bot"
+  profile_pic: "https://avatars.githubusercontent.com/u/294491927?v=4"
+  webpage: "https://github.com/hertie-dsl-bot"
 
 instructors:
-  - name: "Jan Gieseler"
-    profile_pic: /_images/pp/2025_JG.png
-    webpage: "https://hertie-school.org/en/datasciencelab"
+  - name: "hertie-dsl-bot"
+    profile_pic: "https://avatars.githubusercontent.com/u/294491927?v=4"
+    webpage: "https://github.com/hertie-dsl-bot"
 
-teaching_assistants:
-  - name: "Camilo Pedraza Jiménez"
-    profile_pic: /_images/pp/placeholder.jpg
-    webpage: ""
+teaching_assistants: []
