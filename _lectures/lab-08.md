@@ -1,6 +1,6 @@
 ---
 type: lab
-date: 2026-11-04T09:00:00
+date: 2026-10-28T09:00:00
 title: "Lab 8"
 tldr: "Not released yet - lab 8 materials appear here on release."
 unreleased: true
